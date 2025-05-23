@@ -23,9 +23,6 @@ Whether you're a tired student, a masochistic autodidact, or just here for the p
 %%
 <!-- 🎥 `livestream/` – Setup, configs, and painlog from the YouTube speedrun. -->
 
-
----
-
 ## 🧪 How to Use This Repo
 
 1. Clone this bad boy.  
@@ -34,8 +31,6 @@ Whether you're a tired student, a masochistic autodidact, or just here for the p
 4. Pretend you’re being productive. 
 5. Run the files. Modify them. Break them. Learn or fake it.  
 6. Get out.
-
----
 
 ## 🤡 Disclaimer
 
@@ -51,8 +46,6 @@ Thanks a lot for saving me (and potentially others) some pain.
 - `vgsales.csv`: https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
 - `student_habits_performance.csv`: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
 - `students_social_media.csv`: https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
-
----
 
 ## 🪦 Final Words
 
