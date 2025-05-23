@@ -21,7 +21,9 @@ Whether you're a tired student, a masochistic autodidact, or just here for the p
 - ⚖️ `societal_impacts.md` – Digital ethics and other things nobody asked for but they still test you on.
 
 %%
+
 - 🎥 `livestream/` – Setup, configs, and painlog from the YouTube speedrun.
+
 %%
 
 ---
