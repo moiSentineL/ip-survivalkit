@@ -16,21 +16,23 @@ Whether you're a tired student, a masochistic autodidact, or just here for the p
 
 - 🐼 `pandas/` – Because spreadsheets weren’t painful enough.
 - 📊 `matplotlib/` – Now you can draw lines and pretend it’s science.
-- 🐘 `sql/` – SQLite scripts, queries, and sample `.db` files to abuse with your SELECT rage.
-- 🌐 `networking_notes.md` – If you care what a "router" is.
-- ⚖️ `societal_impacts.md` – Digital ethics and other things nobody asked for but they still test you on.
+- 🐘 `sql/` – SQLite scripts and queries to abuse with your SELECT rage.
+- 📔 `notes/` - small, concise revision notes for each topic.
+- 💾 `assets/` - sample `csv` and `db` files for your varied use cases.
 
-%%
 <!-- 🎥 `livestream/` – Setup, configs, and painlog from the YouTube speedrun. -->
+
+**I will/have covered every single topic from the CBSE Grade 12 IP [Curriculum](curriculum.pdf)**.
 
 ## 🧪 How to Use This Repo
 
 1. Clone this bad boy.  
 2. Open VS Code (or Jupyter if you like suffering).  
 3. Install everything in `requirements.txt`.
-4. Pretend you’re being productive. 
-5. Run the files. Modify them. Break them. Learn or fake it.  
-6. Get out.
+4. Alternatively, run in your `conda` or `anaconda`.
+5. Pretend you’re being productive. 
+6. Run the files. Modify them. Break them. Learn or fake it.  
+7. Get out.
 
 ## 🤡 Disclaimer
 
