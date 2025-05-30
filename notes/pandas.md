@@ -1,9 +1,11 @@
 ## Notes for `pandas`
 
+See also: https://pandas.pydata.org/docs/user_guide/10min.html
+
 ### 🔑 Core Ideas (TL;DR)
-- Series is 1D data structure in the form of a column.
+- **Series** is 1D data structure in the form of a column.
     - it can be formed using lists, dictionaries, `ndarrays`. 
-- Dataframes are 2D spreadsheet like structure.
+- **Dataframes** are 2D spreadsheet like structure.
     - they can be formed from series, dicts, `ndarrays`.
     - they can be comverted to and from csv's, sql tables and so on.
     - you can do diverse manipulation with them
@@ -28,7 +30,7 @@
 - `df.shape` for the dimensions of the dataframe.
 #### Operations
 - `df["some_column"] = "bruh"`: adds a column named `some_column` with all of its values as "bruh".
-- deletion works just like a dictionary
+- deletion works just like a dictionary `del df["lol"]`
 - `df.rename(columns={"A": "a", "B":"b"})`: rename columns `A->a` and `B->b`.
 - `df.to_{list|numpy}()`: converts dataframe to list or numpy, respectively.
 #### CSV
@@ -54,7 +56,5 @@
 	- arrays are more mathematically accurate.
 
 ---
-
-## Flashcards
-
+*nibir sankar, 2025.*
 
