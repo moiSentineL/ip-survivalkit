@@ -10,7 +10,7 @@
 	- are for grouped continuous data.
 	- they have a frequency and a class.
 
-![figure anatomy](../assets/figure.png)
+![figure anatomy](../assets/images/figure.png)
 
 ### 🔑 Core Ideas (TL;DR)
 - Plot using `plt.{plot|bar}(x,y)`, which accepts two lists for the axes.
